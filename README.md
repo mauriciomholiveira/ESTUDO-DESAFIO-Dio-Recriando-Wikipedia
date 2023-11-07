@@ -6,7 +6,7 @@ Objetivo desse desafio era recriar uma pagina da Wikipedia para mostrar meus res
 
 📚 Esta página HTML apresenta informações sobre a série de livros de Harry Potter, escrita por J.K. Rowling. Ela abrange a origem da série, informações sobre os livros individuais, temas abordados e muito mais.
 
-🔗 [Link para a página HTML](inserir link aqui)
+🔗 [Link para o projeto aqui!](https://estudo-desafio-dio-recriando-wikipedia.vercel.app/)
 
 ## 📝 Conteúdo
 
